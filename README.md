@@ -27,3 +27,4 @@ Gosto de desenvolver meus projetos em Python, uso front-end com PyQt5 e crio API
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennis-rocha&repo=calculadora&theme=onedark)](https://github.com/dennis-rocha/calculadora)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennis-rocha&repo=pirateScrapy&theme=onedark)](https://github.com/dennis-rocha/pirateScrapy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennis-rocha&repo=boilerplate-budget-app&theme=onedark)](https://github.com/dennis-rocha/boilerplate-budget-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennis-rocha&repo=funcionarios&theme=onedark)](https://github.com/dennis-rocha/funcionarios)
